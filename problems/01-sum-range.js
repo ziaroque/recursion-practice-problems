@@ -1,5 +1,5 @@
 /*
- * SUM ALL NUMBERS
+ * PROBLEM #1: Sum all numbers
  *
  * Write a recursive function called `sumRange` that takes in a number and
  * returns the sum of all numbers from 1 up to the number passed in.
