@@ -1,5 +1,5 @@
 const assert = require('assert');
-const sumRange = require('../problems/01-sum-range.js');
+const sumRange = require('../solutions/01-sum-range.js');
 
 describe('sumRange', () => {
   it('tests if sumRange(3) returns 6', () => {

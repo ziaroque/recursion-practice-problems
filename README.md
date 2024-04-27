@@ -8,24 +8,24 @@ I'm adding test files for each problem using Mocha JS test framework as I upload
 
 ## Solutions
 
-| #   | Problem                                          | Link to test file                | Status         |
-| --- | ------------------------------------------------ | -------------------------------- | -------------- |
-| 1   | [Sum all numbers](/problems/01-sum-range.js)     | [>>](/test/01-sum-range-test.js) | Uploaded       |
-| 2   | [Power function](/problems/02-power.js)          | [>>](/test/02-power-test.js)     | Uploaded       |
-| 3   | [Calculate factorial](/problems/03-factorial.js) | [>>](/test/03-factorial-test.js) | Uploaded       |
-| 4   | [Check all values in an array]()                 | [>>]()                           | Pending upload |
-| 5   | [Check some values in an array]()                | [>>]()                           | Pending upload |
-| 6   | [Product of all values in an array]()            | [>>]()                           | Pending upload |
-| 7   | [Search a JS object]()                           | [>>]()                           | Pending upload |
-| 8   | [Parse a multi-dimensional array]()              | [>>]()                           | Pending upload |
-| 9   | [Sum the squares of numbers in a list]()         | [>>]()                           | Pending upload |
-| 10  | [Generate repetitions of a number]()             | [>>]()                           | Pending upload |
-| 11  | [Recreate the `Array.prototype.flat()` method]() | [>>]()                           | Pending upload |
-| 12  | [Fibonacci sequence]()                           | [>>]()                           | Pending upload |
-| 13  | [Sum of fibonacci sequence]()                    | [>>]()                           | Pending upload |
-| 14  | [First n prime numbers from x]()                 | [>>]()                           | Pending upload |
-| 15  | [Check if brace expression is balanced]()        | [>>]()                           | Pending upload |
-| ... | ...                                              | ...                              | ...            |
+| #   | Problem                                           | Link to test file                | Status         |
+| --- | ------------------------------------------------- | -------------------------------- | -------------- |
+| 1   | [Sum all numbers](/solutions/01-sum-range.js)     | [>>](/test/01-sum-range-test.js) | Uploaded       |
+| 2   | [Power function](/solutions/02-power.js)          | [>>](/test/02-power-test.js)     | Uploaded       |
+| 3   | [Calculate factorial](/solutions/03-factorial.js) | [>>](/test/03-factorial-test.js) | Uploaded       |
+| 4   | [Check all values in an array]()                  | [>>]()                           | Pending upload |
+| 5   | [Check some values in an array]()                 | [>>]()                           | Pending upload |
+| 6   | [Product of all values in an array]()             | [>>]()                           | Pending upload |
+| 7   | [Search a JS object]()                            | [>>]()                           | Pending upload |
+| 8   | [Parse a multi-dimensional array]()               | [>>]()                           | Pending upload |
+| 9   | [Sum the squares of numbers in a list]()          | [>>]()                           | Pending upload |
+| 10  | [Generate repetitions of a number]()              | [>>]()                           | Pending upload |
+| 11  | [Recreate the `Array.prototype.flat()` method]()  | [>>]()                           | Pending upload |
+| 12  | [Fibonacci sequence]()                            | [>>]()                           | Pending upload |
+| 13  | [Sum of fibonacci sequence]()                     | [>>]()                           | Pending upload |
+| 14  | [First n prime numbers from x]()                  | [>>]()                           | Pending upload |
+| 15  | [Check if brace expression is balanced]()         | [>>]()                           | Pending upload |
+| ... | ...                                               | ...                              | ...            |
 
 ## Technologies
 
