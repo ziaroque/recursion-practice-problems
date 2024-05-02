@@ -1,5 +1,5 @@
 const assert = require('assert');
-const checkBraces = require('../solutions/15-brace-balance.js');
+const checkBraces = require('../solutions/16-brace-balance.js');
 
 describe('checkBraces', () => {
   const tests = ({ expression, expected }) =>

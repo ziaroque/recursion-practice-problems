@@ -1,5 +1,5 @@
 const assert = require('assert');
-const fibonacciSum = require('../solutions/13-fibonacci-sum.js');
+const fibonacciSum = require('../solutions/14-fibonacci-sum.js');
 
 describe('fibonacciSum', () => {
   const tests = ({ num, expected }) =>

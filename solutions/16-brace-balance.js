@@ -1,5 +1,5 @@
 /*
- * PROBLEM #15: Check if brace expression is balanced or not
+ * PROBLEM #16: Check if brace expression is balanced or not
  *
  * Write a recursive function called `checkBraces` that takes in an expression
  * and returns true if it is correct or balanced

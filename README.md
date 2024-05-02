@@ -23,10 +23,11 @@ Feel free to solve the problems listed below and compare with my solutions. I wo
 | 9   | Sum the squares of numbers            | Take an `array` and return the sum of the squares of the numbers in it                 | [>>](/solutions/09-sum-squares.js)      | [??](/test/09-sum-squares-test.js)      |
 | 10  | Generate repetitions of a number      | Take `times` and `n` and return an array containing repetitions of n                   | [>>](/solutions/10-replicate.js)        | [??](/test/10-replicate-test.js)        |
 | 11  | Recreate the flat() method            | Take a multi-dimensional `array` and return its 1D or flattened version                | [>>](/solutions/11-flatten-array.js)    | [??](/test/11-flatten-array-test.js)    |
-| 12  | Fibonacci number                      | Take `n` and return the fibonacci number                                               | [>>](/solutions/12-fibonacci.js)        | [??](/test/12-fibonacci-test.js)        |
-| 13  | Sum of fibonacci sequence             | Take `n` and return sum of fibonacci sequence                                          | [>>](/solutions/13-fibonacci-sum.js)    | [??](/test/13-fibonacci-sum-test.js)    |
-| 14  | First n prime numbers from x          | Take `n` (and an optional `i`) and return the first n prime numbers from i             | [>>](/solutions/14-first-n-primes.js)   | [??](/test/14-first-n-primes-test.js)   |
-| 15  | Check if brace expression is balanced | Take an `expression` of braces and return true if it's balanced                        | [>>](/solutions/15-brace-balance.js)    | [??](/test/15-brace-balance-test.js)    |
+| 12  | Fibonacci number position             | Take `n` and return the fibonacci number position                                      | [>>](/solutions/12-fibonacci-pos.js)    | [??](/test/12-fibonacci-pos-test.js)    |
+| 13  | Fibonacci sequence                    | Take `n` and return the fibonacci sequence up to n                                     | [>>](/solutions/13-fibonacci-seq.js)    | [??](/test/13-fibonacci-seq-test.js)    |
+| 14  | Sum of fibonacci sequence             | Take `n` and return sum of fibonacci sequence                                          | [>>](/solutions/14-fibonacci-sum.js)    | [??](/test/14-fibonacci-sum-test.js)    |
+| 15  | First n prime numbers from x          | Take `n` (and an optional `i`) and return the first n prime numbers from i             | [>>](/solutions/15-first-n-primes.js)   | [??](/test/15-first-n-primes-test.js)   |
+| 16  | Check if brace expression is balanced | Take an `expression` of braces and return true if it's balanced                        | [>>](/solutions/16-brace-balance.js)    | [??](/test/16-brace-balance-test.js)    |
 
 ## Technologies
 
@@ -58,6 +59,7 @@ npm test
 ## Sources
 
 - JS Interview Prep Recursion from [codingame.com](https://www.codingame.com/playgrounds/5422/js-interview-prep-recursion)
+- Recursion problems from [LeetCode](https://leetcode.com/tag/recursion/)
 - some of the problems were provided by [@ton03](https://github.com/ton03) (_ty!_)
 
 ## License
