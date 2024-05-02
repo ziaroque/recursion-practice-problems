@@ -1,5 +1,5 @@
 const assert = require('assert');
-const firstNPrimes = require('../solutions/14-first-n-primes.js');
+const firstNPrimes = require('../solutions/15-first-n-primes.js');
 
 describe('firstNPrimes', () => {
   const tests = ({ counter, iterator, expected }) =>

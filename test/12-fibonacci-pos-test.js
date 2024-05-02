@@ -1,10 +1,10 @@
 const assert = require('assert');
-const fibonacci = require('../solutions/12-fibonacci.js');
+const fibonacciPos = require('../solutions/12-fibonacci-pos.js');
 
-describe('fibonacci', () => {
+describe('fibonacciPos', () => {
   const tests = ({ num, expected }) =>
     function () {
-      const result = fibonacci(num);
+      const result = fibonacciPos(num);
       assert.strictEqual(result, expected);
     };
 

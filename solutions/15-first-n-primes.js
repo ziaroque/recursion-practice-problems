@@ -1,5 +1,5 @@
 /*
- * PROBLEM #14: First n primes
+ * PROBLEM #15: First n primes
  *
  * Write a recursive function called `firstNPrimes` that takes in a number
  * and returns the first n prime numbers from an (optional) starting number
